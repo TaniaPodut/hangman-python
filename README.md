@@ -1,4 +1,4 @@
-# Hangman Game in Python 🎯
+# Hangman Game in Python
 
 This is a simple command-line implementation of the classic **Hangman** game (*Spânzurătoarea*), written in Python.
 
@@ -6,7 +6,7 @@ The game randomly selects a word from a predefined list, and the player must gue
 
 ---
 
-## 🎮 Features
+## Features
 
 - Random word selection
 - Tracks guessed letters
@@ -16,7 +16,7 @@ The game randomly selects a word from a predefined list, and the player must gue
 
 ---
 
-## 🧪 Example Output
+## Example Output
 
 ```text
 Bine ai venit la jocul Spânzurătoarea!
